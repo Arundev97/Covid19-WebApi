@@ -1,0 +1,15 @@
+C:\Users\Arun\source\repos\arun\arun\bin\Debug\netcoreapp2.2\nlog.config
+C:\Users\Arun\source\repos\arun\arun\bin\Debug\netcoreapp2.2\arun.deps.json
+C:\Users\Arun\source\repos\arun\arun\bin\Debug\netcoreapp2.2\arun.runtimeconfig.json
+C:\Users\Arun\source\repos\arun\arun\bin\Debug\netcoreapp2.2\arun.runtimeconfig.dev.json
+C:\Users\Arun\source\repos\arun\arun\bin\Debug\netcoreapp2.2\arun.dll
+C:\Users\Arun\source\repos\arun\arun\bin\Debug\netcoreapp2.2\arun.pdb
+C:\Users\Arun\source\repos\arun\arun\obj\Debug\netcoreapp2.2\arun.csprojAssemblyReference.cache
+C:\Users\Arun\source\repos\arun\arun\obj\Debug\netcoreapp2.2\arun.csproj.CoreCompileInputs.cache
+C:\Users\Arun\source\repos\arun\arun\obj\Debug\netcoreapp2.2\arun.RazorAssemblyInfo.cache
+C:\Users\Arun\source\repos\arun\arun\obj\Debug\netcoreapp2.2\arun.RazorAssemblyInfo.cs
+C:\Users\Arun\source\repos\arun\arun\obj\Debug\netcoreapp2.2\arun.AssemblyInfoInputs.cache
+C:\Users\Arun\source\repos\arun\arun\obj\Debug\netcoreapp2.2\arun.AssemblyInfo.cs
+C:\Users\Arun\source\repos\arun\arun\obj\Debug\netcoreapp2.2\arun.RazorTargetAssemblyInfo.cache
+C:\Users\Arun\source\repos\arun\arun\obj\Debug\netcoreapp2.2\arun.dll
+C:\Users\Arun\source\repos\arun\arun\obj\Debug\netcoreapp2.2\arun.pdb
